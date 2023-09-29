@@ -1,0 +1,62 @@
+monthnum,month,year,categories,cust id,region,units,cost_per_unit,sales_cost,staff_qty,per_staff,staff_cost,Customer_type
+1,January,2021,Reciprocating compressors,1101,India,35,45000,1575000,5,100,500,4
+2,February,2021,Rotary screw compressors,1101,USA,55,25000,1375000,10,150,1500,4
+3,March,2021,Oil free compressors,1101,Europe,40,35000,1400000,15,200,3000,4
+4,April,2021,Centrifugal compressors,1101,Middle east,20,23000,460000,20,250,5000,2
+5,May,2021,High-pressure compressors,1101,Southeast asia,25,34000,850000,25,300,7500,3
+6,June,2021,Portable compressors,1101,Africa,27,15000,405000,30,350,10500,1
+7,July,2021,Low pressure compressors,1101,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1101,South America,29,17000,493000,40,450,18000,2
+9,September,2021,Compressed air system,1101,China,37,12000,444000,45,500,22500,1
+10,October,2021,Customized solutions,1101,USA,45,35000,1575000,50,550,27500,4
+11,November,2021,Centrifugal compressors,1101,South America,23,23000,529000,16,150,2400,2
+12,December,2021,High-pressure compressors,1101,China,13,34000,442000,20,175,3500,1
+1,January,2021,Reciprocating compressors,1102,India,35,45000,1575000,5,100,500,4
+2,February,2021,Rotary screw compressors,1102,USA,55,25000,1375000,10,150,1500,4
+3,March,2021,Oil free compressors,1102,Europe,40,35000,1400000,15,200,3000,4
+4,April,2021,Centrifugal compressors,1102,Middle east,20,23000,460000,20,250,5000,2
+5,May,2021,High-pressure compressors,1102,Southeast asia,25,34000,850000,25,300,7500,3
+6,June,2021,Portable compressors,1102,Africa,27,15000,405000,30,350,10500,1
+7,July,2021,Low pressure compressors,1102,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1102,South America,29,17000,493000,40,450,18000,2
+3,March,2021,Oil free compressors,1103,Europe,40,35000,1400000,15,200,3000,4
+4,April,2021,Centrifugal compressors,1103,Middle east,20,23000,460000,20,250,5000,2
+5,May,2021,High-pressure compressors,1103,Southeast asia,25,34000,850000,25,300,7500,3
+6,June,2021,Portable compressors,1103,Africa,27,15000,405000,30,350,10500,1
+7,July,2021,Low pressure compressors,1103,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1103,South America,29,17000,493000,40,450,18000,2
+9,September,2021,Compressed air system,1103,China,37,12000,444000,45,500,22500,1
+4,April,2021,Centrifugal compressors,1104,Middle east,20,23000,460000,20,250,5000,2
+5,May,2021,High-pressure compressors,1104,Southeast asia,25,34000,850000,25,300,7500,3
+6,June,2021,Portable compressors,1104,Africa,27,15000,405000,30,350,10500,1
+7,July,2021,Low pressure compressors,1104,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1104,South America,29,17000,493000,40,450,18000,2
+5,May,2021,High-pressure compressors,1105,Southeast asia,25,34000,850000,25,300,7500,3
+6,June,2021,Portable compressors,1105,Africa,27,15000,405000,30,350,10500,1
+7,July,2021,Low pressure compressors,1105,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1105,South America,29,17000,493000,40,450,18000,2
+9,September,2021,Compressed air system,1105,China,37,12000,444000,45,500,22500,1
+10,October,2021,Customized solutions,1105,USA,45,35000,1575000,50,550,27500,4
+6,June,2021,Portable compressors,1106,Africa,27,15000,405000,30,350,10500,1
+7,July,2021,Low pressure compressors,1106,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1106,South America,29,17000,493000,40,450,18000,2
+9,September,2021,Compressed air system,1106,China,37,12000,444000,45,500,22500,1
+10,October,2021,Customized solutions,1106,USA,45,35000,1575000,50,550,27500,4
+7,July,2021,Low pressure compressors,1107,Australia,37,25000,925000,35,400,14000,3
+8,August,2021,Gas compressors,1107,South America,29,17000,493000,40,450,18000,2
+9,September,2021,Compressed air system,1107,China,37,12000,444000,45,500,22500,1
+10,October,2021,Customized solutions,1107,USA,45,35000,1575000,50,550,27500,4
+11,November,2021,Centrifugal compressors,1107,South America,23,23000,529000,16,150,2400,2
+8,August,2021,Gas compressors,1108,South America,29,17000,493000,40,450,18000,2
+9,September,2021,Compressed air system,1108,China,37,12000,444000,45,500,22500,1
+10,October,2021,Customized solutions,1108,USA,45,35000,1575000,50,550,27500,4
+11,November,2021,Centrifugal compressors,1108,South America,23,23000,529000,16,150,2400,2
+9,September,2021,Compressed air system,1109,China,37,12000,444000,45,500,22500,1
+10,October,2021,Customized solutions,1109,USA,45,35000,1575000,50,550,27500,4
+11,November,2021,Centrifugal compressors,1109,South America,23,23000,529000,16,150,2400,2
+12,December,2021,High-pressure compressors,1109,China,13,34000,442000,20,175,3500,1
+10,October,2021,Customized solutions,1110,USA,45,35000,1575000,50,550,27500,4
+11,November,2021,Centrifugal compressors,1110,South America,23,23000,529000,16,150,2400,2
+12,December,2021,High-pressure compressors,1110,China,13,34000,442000,20,175,3500,1
+11,November,2021,Centrifugal compressors,1111,South America,23,23000,529000,16,150,2400,2
+12,December,2021,High-pressure compressors,1112,China,13,34000,442000,20,175,3500,1
