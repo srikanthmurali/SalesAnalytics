@@ -1,18 +1,18 @@
 # SalesAnalytics
-Observing the annual report of the organization and trying to find the best practices and areas of improvement through data driven approach.
+**Goal**: To predict customer profiles based on region, month, and product category for the year 2022, using a machine learning model trained on data from the year 2021. This analysis will help determine staffing requirements for the year 2022
 
 Let's compare the financial data from the annual reports for the years 2021-22 and 2022-23 to identify improvements, areas that need attention, and any notable changes or pain points:
 
 **Key Comparisons:**
 
 1. **Revenue (Income from Operations):**
-   - 2021-22: 25,247 million
-   - 2022-23: 30,407 million
-   - **Improvement:** Revenue from operations increased by approximately 5,160 million, indicating significant growth in the company's core business activities.
+   - 2021-22: 48 million
+   - 2022-23: 68 million
+   - **Improvement:** Revenue from operations increased by approximately 20 million, indicating significant growth in the company's core business activities.
      
 2. . **Number of Employees:**
-   - 2021-22: 2,162
-   - 2022-23: 2,127
+   - 2021-22: 1866
+   - 2022-23: 1596
    - **Change:** The number of employees slightly decreased, which may have been a strategic decision.
   
 **Areas to Focus and Potential Pain Points:**
